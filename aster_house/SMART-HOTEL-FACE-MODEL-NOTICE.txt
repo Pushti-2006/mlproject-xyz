@@ -1,0 +1,5 @@
+Aster House local demo includes @vladmandic/human 3.3.6 (MIT License) and its face detection, mesh, and face description model files.
+The library code is in dist/human.js in the project source and is bundled in the local demo assets. The model files are in models/.
+Library project: https://github.com/vladmandic/human
+The model files carry licenses from their original model sources; see https://github.com/vladmandic/human/wiki/Models for credits and model information.
+The included library MIT license is retained at dist/LICENSE.
